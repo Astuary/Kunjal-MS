@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -99,4 +99,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 =======
 # Kunjal
 My portfolio website
->>>>>>> origin/master
