@@ -1,2 +1,0 @@
-# Kunjal
-My portfolio website
